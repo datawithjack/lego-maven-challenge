@@ -1,5 +1,5 @@
 # Maven Analytics Lego Challenge
-This repo contains all the files used for my maven analytics lego challenge entry.
+This repo contains all the files used for my Maven Analytics Lego Challenge entry held in January 2024.
 
 ## Project Report: Exploration of LEGO Minifigure Evolution
 
